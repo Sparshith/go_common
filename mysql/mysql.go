@@ -2,8 +2,7 @@ package mysql
 
 import (
 	"fmt"
-
-	"github.com/Sparshith/go_common/pkg/config"
+	"github.com/Sparshith/go_common/config"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
